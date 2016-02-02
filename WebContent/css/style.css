@@ -1,0 +1,20 @@
+* {
+  margin: -2px;
+  padding: 0px;
+  border: 0px;
+}
+
+body {
+  background: #fdd;
+  font: 30px sans-serif;
+}
+
+#aaaa{
+	font-size:45px;
+	padding-top:500px;
+	margin-top:500px;
+	}
+
+#so{
+	font-size:10px;
+	}
